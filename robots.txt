@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /login/
+Disallow: /member/
+Disallow: /api/
+
+# 사이트맵 위치 명시 (본인 도메인으로 수정 확인)
+Sitemap: https://xn--vk5b29y.com/sitemap.xml

@@ -1,5 +1,1 @@
-[[redirects]]
-  from = "https://opdotcom.netlify.app/*"
-  to = "https://opbs2.com/:splat"
-  status = 301
-  force = true
+
